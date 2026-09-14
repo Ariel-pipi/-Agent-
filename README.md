@@ -33,3 +33,8 @@ ZHIPU_API_KEY=你的密钥
 ### 5. 启动项目
 - 启动后端： `python backend_server.py`
 - 启动前端： `streamlit run frontend_app.py`
+
+## 😊 结果展示
+<img width="1325" height="896" alt="48dc9c14cf4d56ab42a95545f76bec63" src="https://github.com/user-attachments/assets/5c7b5406-b88a-4548-a409-cf23f4886cd5" />
+<img width="1320" height="905" alt="aea4a706a88237d93ba0f44654ec7096" src="https://github.com/user-attachments/assets/1691973d-77c6-4152-9a3f-f49fcc33773d" />
+
