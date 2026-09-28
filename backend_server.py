@@ -12,7 +12,7 @@ from ultralytics import YOLO
 # 加载环境变量
 load_dotenv()
 
-# ⚠️ 这里直接复用你之前的配置名称
+# ⚠️ 这里直接复用之前的配置名称
 API_KEY = os.getenv("ALIYUN_API_KEY")
 BASE_URL = os.getenv("ALIYUN_BASE_URL")
 MODEL_NAME = "glm-4v-flash"
